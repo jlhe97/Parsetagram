@@ -44,7 +44,7 @@ Here's a walkthrough of implemented user stories:
 
 Content is too big to embed in the file. Instead put link to the imgur location to play it from browser.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="DsrBF0M"><a href="//imgur.com/DsrBF0M">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="DsrBF0M"><a href="https://i.imgur.com/DsrBF0M.mp4">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 
