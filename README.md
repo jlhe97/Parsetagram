@@ -43,7 +43,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 Here's a walkthrough of implemented user stories:
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="DsrBF0M"><a href="//imgur.com/DsrBF0M">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+<img src='http://imgur.com/DsrBF0M' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 [img]http://i.imgur.com/DsrBF0M.gif[/img]
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
